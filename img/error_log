@@ -1,3 +1,0 @@
-[07-May-2015 13:59:49 UTC] PHP Warning:  include(conectar.php): failed to open stream: No such file or directory in /home/tecnosty/public_html/img/index.php on line 15
-[07-May-2015 13:59:49 UTC] PHP Warning:  include(conectar.php): failed to open stream: No such file or directory in /home/tecnosty/public_html/img/index.php on line 15
-[07-May-2015 13:59:49 UTC] PHP Warning:  include(): Failed opening 'conectar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tecnosty/public_html/img/index.php on line 15
